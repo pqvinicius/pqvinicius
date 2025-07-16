@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Vinicius Xavier de Lima</h1>
+<h1 align="center">👋 Olá, eu sou o Vinicius</h1>
 
 <p align="center">
   <b>Analista de Dados e Estratégia de Negócios</b><br>
