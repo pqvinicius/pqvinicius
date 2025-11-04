@@ -10,31 +10,12 @@
 
 ## 🚀 Sobre Mim
 
-🎯 Atualmente trabalho como **Analista de Dados**, com mais de 4 anos de experiência em:
+🎯 Atualmente trabalho como **Analista de Dados**, com mais de 2 anos de experiência em:
 
 - Inteligência comercial e análise de performance
 - Automação de relatórios com Python e Power BI
 - Indicadores de marketing, vendas e cobrança
 - Otimização de decisões com estatística aplicada
-
-🎓 Pós-graduando em Estatística Aplicada  
-📚 Bacharel em Cooperativismo pela Universidade Federal De Viçosa
-
----
-
-## 🧠 Habilidades Técnicas
-
-| Ferramentas & Linguagens       | Nível              |
-|-------------------------------|--------------------|
-| `Power BI`, `Excel (VBA/PQ)`  | ⭐⭐⭐⭐⭐ (Avançado)   |
-| `Python`, `Pandas`, `Seaborn` | ⭐⭐⭐⭐              |
-| `SQL`, `BigQuery`, `Azure`    | ⭐⭐⭐⭐              |
-| `Estatística`, `ML básico`    | ⭐⭐⭐               |
-| `Pentaho`, `JIRA`, `Tableau`  | ⭐⭐⭐               |
-
-
-
----
 
 ## 📫 Contato
 
