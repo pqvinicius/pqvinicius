@@ -1,40 +1,65 @@
 <h1 align="center">👋 Olá, eu sou o Vinicius</h1>
 
 <p align="center">
-  <b>Analista de Dados e Estratégia de Negócios</b><br>
+  <b>Analista de Dados & Estratégia de Negócios</b><br>
   🔍 Transformando dados em decisões com impacto real.<br>
-  📊 Especialista em Power BI, Excel, SQL e automações com Python.
+  📊 Power BI • Excel • SQL • Python • Automação
 </p>
 
 ---
 
-## 🚀 Sobre Mim
+## Sobre Mim
 
-🎯 Atualmente trabalho como **Analista de Dados**, com mais de 2 anos de experiência em:
+🎯 Atuo como **Analista de Dados**, focado em gerar valor de negócio a partir de dados.
 
+Experiência prática em:
 - Inteligência comercial e análise de performance
-- Automação de relatórios com Python e Power BI
+- Automação de relatórios com Python
+- Dashboards gerenciais (Power BI e Excel)
 - Indicadores de marketing, vendas e cobrança
-- Otimização de decisões com estatística aplicada
+- Estatística aplicada à tomada de decisão
 
-## 📫 Contato
+---
+
+## Stack Principal
+
+**Dados & BI**
+- Power BI (DAX, modelagem, indicadores)
+- Excel avançado (Power Query, Power Pivot)
+- SQL (consultas analíticas)
+
+**Automação & Análise**
+- Python (pandas, automação, ETL)
+- Estatística aplicada
+
+---
+
+## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusxdelima)  
 📧 viniciusxdelima@gmail.com  
 
 ---
 
-<p align="center">
-  <i>“Transformar dados em impacto real é o que me move. Vamos conversar?”</i>
-</p>
-
-## 📊 GitHub Stats
+## GitStatus
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pqvinicius&show_icons=true&theme=dracula&locale=pt-br" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pqvinicius&layout=compact&theme=dracula&locale=pt-br"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=pqvinicius&show_icons=true&theme=dracula&hide_border=true&count_private=true&cache_seconds=1800" 
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pqvinicius&layout=compact&theme=dracula&hide_border=true&cache_seconds=1800" 
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pqvinicius&theme=dracula&locale=pt_BR" />
+  <img 
+    src="https://streak-stats.demolab.com?user=pqvinicius&theme=dracula&hide_border=true" 
+  />
 </p>
+
+---
+
+<p align="center
